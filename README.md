@@ -22,7 +22,7 @@
     </a>
   </p>
 
-  I build end-to-end hardware and software systems — from tuning PID controllers for self-balancing robots to developing machine learning classification models. Founder of NodeCraft Technologies.
+  I build end-to-end hardware and software systems — from tuning PID controllers for self-balancing robots to developing machine learning classification models.
 
 </div>
 
