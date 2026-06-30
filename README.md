@@ -72,9 +72,9 @@ I build **Robots, Jammers, Controlled Automation**
 
 | Repository | About |
 |---|---|
-| [Self Balancing Two Wheel Robot](https://github.com/hamzaasghar2429/Self-Balancing-Robot) | ML practice projects — supervised learning, NLP |
-| [python-foundations-learning-journey](https://github.com/hasana157/python-foundations-learning-journey) | Structured Python practice notebooks |
-| [Focusary-a-Pomodoro-app](https://github.com/hasana157/Focusary-a-Pomodoro-app) | Java Swing productivity app |
+| [Self Balancing Two Wheel Robot](https://github.com/hamzaasghar2429/Self-Balancing-Robot) | PID Control — Arduino |
+| [Wi-Fi Clock](https://github.com/hamzaasghar2429/WiFi-Clock) | Automatic Wi-Fi Clock System  |
+| [HID - Shutdown Key](https://github.com/hamzaasghar2429/Digispark-Shutdown) | Attiny 85 DigiSpark |
 
 ---
 
@@ -95,7 +95,7 @@ I build **Robots, Jammers, Controlled Automation**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:#0389ba,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=2986cc&textBg=false&fontAlign=50&fontAlignY=42&descSize=23&strokeWidth=5&fontColor=ffffff&stroke=000000&section=footer"/>
 
 <sub>Every number on this page is real. Every project ships. Every metric was measured.</sub>
 
