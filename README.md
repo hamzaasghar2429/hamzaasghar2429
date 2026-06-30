@@ -2,8 +2,6 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2986cc&text=Hamza%20Asghar&textBg=false&desc=Electronics%20Student%20|%20E-commerce%20|%20Robotics%20Enthusiasts&fontAlign=50&fontAlignY=42&descSize=23&strokeWidth=5&fontColor=ffffff&stroke=000000"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hasana%20Zahid&fontSize=52&fontColor=e8d5ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Agentic%20AI%20%7C%20Applied%20ML&descAlignY=58&descSize=16&descColor=b39ddb" width="100%"/>
-
 </div>
 
 ---
