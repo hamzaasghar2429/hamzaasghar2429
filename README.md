@@ -85,8 +85,7 @@ I build **Robots, Jammers, Controlled Automation**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hamzaasghar2429/])
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaasghar2429/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e8d5ff)](mailto:managementhamzaasghar@gmail.com)
 
 </div>
