@@ -10,7 +10,7 @@
 
 ### `Third-year BS Electronics Student`
 
-[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asghar-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaasghar2429/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asghar-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaasghar2429/)
 [![GitHub](https://img.shields.io/badge/GitHub-hamzaasghar2429-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hamzaasghar2429)
 [![Email](https://img.shields.io/badge/Email-managementhamzaasghar%40gmail.com-7c4dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:managementhamzaasghar@gmail.com)
 
