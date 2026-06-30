@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hamza%20Asghar&textBg=false"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#0389ba,50:302b63,100:24243e&height=200&section=header&text=Hamza%20Asghar&fontSize=52&fontColor=e8d5ff&animation=fadeIn&fontAlignY=38&desc=Ecommerce%20Electronics%20Engineer%20%7C%&descAlignY=58&descSize=16&descColor=b39ddb" width="100%"/>
 
