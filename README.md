@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2986cc&text=Hamza%20Asghar&textBg=false&desc=Electronics%20Student%20|%20E-commerce%20|%20Robotics%20Enthusiasts&fontAlign=50&fontAlignY=42&descSize=23&strokeWidth=5&fontColor=ffffff&stroke=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2986cc&text=Hamza%20Asghar&textBg=false&desc=Electronics%20Student%20|%20Robotics%20Enthusiasts%20|%20E-commerce&fontAlign=50&fontAlignY=42&descSize=23&strokeWidth=5&fontColor=ffffff&stroke=000000"/>
 
 </div>
 
@@ -75,7 +75,8 @@ I build **Robots, Jammers, Controlled Automation**
 | [Self Balancing Two Wheel Robot](https://github.com/hamzaasghar2429/Self-Balancing-Robot) | PID Control — Arduino |
 | [Wi-Fi Clock](https://github.com/hamzaasghar2429/WiFi-Clock) | Automatic Wi-Fi Clock System  |
 | [HID - Shutdown Key](https://github.com/hamzaasghar2429/Digispark-Shutdown) | Attiny 85 DigiSpark |
-
+| [Light Feedback Control](https://github.com/hamzaasghar2429/Automatic-Light-FeedBack-Control-System) | Automatic Light Feedback Control |
+| [4-bit ADC](https://github.com/hamzaasghar2429/4-bit-ADC) | Analog to Digital Convertor |
 ---
 
 ## ◈ Open To
