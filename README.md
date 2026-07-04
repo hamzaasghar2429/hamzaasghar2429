@@ -77,6 +77,7 @@ I build **Robots, Jammers, Controlled Automation**
 | [HID - Shutdown Key](https://github.com/hamzaasghar2429/Digispark-Shutdown) | Attiny 85 DigiSpark |
 | [Light Feedback Control](https://github.com/hamzaasghar2429/Automatic-Light-FeedBack-Control-System) | Automatic Light Feedback Control |
 | [Temperature Feedback Control](https://github.com/hamzaasghar2429/Automatic-Temperature-FeedBack-Control-System) | Automatic Temperature Feedback Control |
+| [Windows 11 Activation File](https://github.com/hamzaasghar2429/Windows-11-Activator) | Batch File for Activation |
 | [4-bit ADC](https://github.com/hamzaasghar2429/4-bit-ADC) | Analog to Digital Convertor |
 ---
 
