@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### `Third-year BS Electronics Student`
+### `Last-year BS Electronics Student`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asghar-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaasghar2429/)
 [![GitHub](https://img.shields.io/badge/GitHub-hamzaasghar2429-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hamzaasghar2429)
@@ -27,6 +27,9 @@ I build **Robots, Jammers, Controlled Automation**
 
 **Robotics & Automation**
 `Esp8266` `Esp32` `Arduino Uno` `Arduino Nano` `Attiny85` 
+
+**Softwares**
+`Multisim` `Proteus` `MATLAB` `Ultiboard`
 
 **E-commerce**
 `Shipping` `Queries` `Inventory Management` `Website Designing` `DNS Management` `Finance Management`
