@@ -45,6 +45,7 @@ I build **Robots, Jammers, Controlled Automation**
 | Python Programming | NodeCraft Technologies |
 | Web Development | Alpha Tech |
 | Electrical Engineer | WASA |
+| HR Management | Saylor U |
 | Data Recovery | City Labs |
 
 ---
