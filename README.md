@@ -20,7 +20,7 @@
 I build **Robots, Jammers, Controlled Automation**
 
 ---
-## ◈ Technical Skills
+## ⚒ Technical Skills
 
 **Programming**
 `Python` `C++`  `C` `OOP & DS` 
