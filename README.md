@@ -48,7 +48,7 @@ I build **Robots, Jammers, Controlled Automation**
 | Data Recovery | City Labs |
 
 ---
-## ◈ Featured Projects
+## 📑 Featured Projects
 
 ### 🛜 ESP8266 Deauther — WiFi Jammer Version 1
 > *CityLabs · Esp8266 · C/C++*
@@ -84,7 +84,7 @@ I build **Robots, Jammers, Controlled Automation**
 | [4-bit ADC](https://github.com/hamzaasghar2429/4-bit-ADC) | Analog to Digital Convertor |
 ---
 
-## ◈ Open To
+## 📭 [Open To](mailto:managementhamzaasghar@gmail.com)
 
 - Electronics and Robotics internship opportunities (Summer 2026)
 - E-commerce Brand Startups
