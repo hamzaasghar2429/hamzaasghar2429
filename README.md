@@ -38,6 +38,7 @@ I build **Robots, Jammers, Controlled Automation**
 ## 🎓 [Certifications](https://github.com/hamzaasghar2429/Certifications)
 | Certification | Provider |
 |---|---|
+| Instrument Calibration | P.C.S.I.R Complex Labs |
 | Natural Language Processing | Elevvo Pathways |
 | Robotics and Automation | CodeAlpha |
 | LaTeX | GCUL Department of Electronics|
