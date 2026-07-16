@@ -26,7 +26,7 @@ I build **Robots, Jammers, Controlled Automation**
 `Python` `C++`  `C` `OOP & DS` 
 
 **Robotics & Automation**
-`Esp8266` `Esp32` `Arduino Uno` `Arduino Nano` `Attiny85` 
+`Esp8266` `Esp32` `Arduino Uno` `Arduino Nano` `Attiny85` `Calibration`
 
 **Softwares**
 `Keil μ` `Proteus` `MATLAB` `Ultiboard` `Multisim` `Arduino IDE`
