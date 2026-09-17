@@ -29,7 +29,7 @@ I build **Robots, Jammers, Controlled Automation**
 `Esp8266` `Esp32` `Arduino Uno` `Arduino Nano` `Attiny85` `Calibration`
 
 **Softwares**
-`Shopify` `Keil μ` `Proteus` `MATLAB` `Ultiboard` `Multisim` `LaTeX`  
+`Shopify` `Keil μ Vision` `Proteus` `MATLAB` `Ultiboard` `Multisim` `LaTeX`  
 
 **E-commerce**
 `Shipping` `Queries` `Inventory Management` `Website Designing` `DNS Management` `Finance Management`
@@ -87,7 +87,7 @@ I build **Robots, Jammers, Controlled Automation**
 
 ## 📭 [Open To](mailto:managementhamzaasghar@gmail.com)
 
-- Electronics and Robotics internship opportunities (Summer 2026)
+- Electronics and Robotics internship opportunities (Summer 2027)
 - E-commerce Brand Startups
 
 <div align="center">
