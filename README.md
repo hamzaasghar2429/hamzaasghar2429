@@ -29,7 +29,7 @@ I build **Robots, Jammers, Controlled Automation**
 `Esp8266` `Esp32` `Arduino Uno` `Arduino Nano` `Attiny85` `Calibration`
 
 **Softwares**
-`Keil μ` `Proteus` `MATLAB` `Ultiboard` `Multisim` `Arduino IDE`
+`Shopify` `Keil μ` `Proteus` `MATLAB` `Ultiboard` `Multisim` `LaTeX`  
 
 **E-commerce**
 `Shipping` `Queries` `Inventory Management` `Website Designing` `DNS Management` `Finance Management`
