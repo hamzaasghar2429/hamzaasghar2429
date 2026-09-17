@@ -71,6 +71,10 @@ I build **Robots, Jammers, Controlled Automation**
 > *CityLabs · Arduino Uno · C/C++ · Hygrometer · Proteus*
 [![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hamzaasghar2429/Automatic-Humidity-FeedBack-Control-System)
 ---
+### ♻ Environment Monitoring System
+> *CityLabs · Arduino Uno · C/C++ · Smoke Sensor · Rain Sensor · Temperature Sensor· Humidity Sensor*
+[![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hamzaasghar2429/Environment-Monitoring-System)
+---
 
 ## 💾 [More Repositories](https://github.com/hamzaasghar2429?tab=repositories)
 
