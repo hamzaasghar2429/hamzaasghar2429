@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### `Last-year BS Electronics Student`
+### `Last-year MS Electronics Student`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asghar-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaasghar2429/)
 [![GitHub](https://img.shields.io/badge/GitHub-hamzaasghar2429-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hamzaasghar2429)
@@ -81,6 +81,7 @@ I build **Robots, Jammers, Controlled Automation**
 | Repository | About |
 |---|---|
 | [Self Balancing Two Wheel Robot](https://github.com/hamzaasghar2429/Self-Balancing-Robot) | PID Control — Arduino |
+| [Obstacle Avoiding Car](https://github.com/hamzaasghar2429/Obstacle-Avoiding-Car) | Autonomous Obstacle-Avoiding Car  |
 | [Wi-Fi Clock](https://github.com/hamzaasghar2429/WiFi-Clock) | Automatic Wi-Fi Clock System  |
 | [HID - Shutdown Key](https://github.com/hamzaasghar2429/Digispark-Shutdown) | Attiny 85 DigiSpark |
 | [Light Feedback Control](https://github.com/hamzaasghar2429/Automatic-Light-FeedBack-Control-System) | Automatic Light Feedback Control |
