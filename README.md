@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### `Last-year MS Electronics Student`
+### `Final-year MS Electronics Student`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asghar-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaasghar2429/)
 [![GitHub](https://img.shields.io/badge/GitHub-hamzaasghar2429-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hamzaasghar2429)
